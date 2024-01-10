@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Smilr : MonoBehaviour
 {
     public GameObject target;  // —сылка на цель
-    public Text counter;
+    public Text counter;  // —сылка на счЄтчик
 
     NavMeshAgent agent;
     Animator animator;
